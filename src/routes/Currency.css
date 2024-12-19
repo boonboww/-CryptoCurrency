@@ -1,0 +1,45 @@
+
+div {
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 600px;
+    background-color: #fff;
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 20px;
+    margin: 10px 0;
+    color: #333;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+
+h1:first-of-type {
+    font-size: 24px;
+    color: #2d3e50;
+    font-weight: 700;
+}
+
+
+h1:nth-of-type(2) {
+    color: #007bff;
+   
+}
+
+h1:nth-of-type(3) {
+    color: #28a745;
+   
+}
+
+h1:nth-of-type(4) {
+    color: #ffc107;
+  
+}
+
+h1:nth-of-type(5) {
+    color: #dc3545;
+
+}
